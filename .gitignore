@@ -1,0 +1,10 @@
+
+compiled java files
+*.class
+
+compiled output folder
+out/
+
+VS Code workspace settings
+.vscode/
+
