@@ -30,6 +30,7 @@ The application saves contact information in a local file so that your contacts 
 - Visual Studio Code
 
 ## 4. Project Structure
+```text
 Task-1-Contact-Management-App/
 ├── data/
 │   └── contacts.data
@@ -49,8 +50,7 @@ Task-1-Contact-Management-App/
 │       └── ContactView.java
 ├── .gitignore
 └── README.md
-
-
+```
 
 
 ## 5. Requirements
